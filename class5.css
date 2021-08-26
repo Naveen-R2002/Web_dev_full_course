@@ -1,0 +1,28 @@
+.firstbox{
+    border: black 2px solid;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+}
+#ul{
+    background-color: tomato;
+}
+ol{
+    background-color: wheat;
+}
+h1{
+    background-color: teal;
+}
+em{
+    background-color: orange;
+}
+p[name="first_p_tag"]{
+    background-color: orchid;
+}
+/* body{
+    color: blue;
+} */
+audio{
+    width: 30%;
+    height: 300px;
+}

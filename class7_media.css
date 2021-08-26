@@ -1,0 +1,37 @@
+.mob{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 20px;
+}
+.tab{
+    display:none;
+}
+.lap{
+    display:none;
+}
+@media (min-width: 768px){
+    .mob{
+        display:none;
+    }
+    .tab{
+        display:block;
+        background-color: crimson;
+        color: white;
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 1024px){
+    .mob{
+        display:none;
+    }
+    .tab{
+        display:none;
+    }
+    .lap{
+        display:block;
+        background-color: indigo;
+        color: white;
+        font-size: 40px;
+    }
+}

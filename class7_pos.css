@@ -1,0 +1,46 @@
+ /* .static{
+    position:static;
+    border:red 3px solid;
+    top: 500px;
+    /* static is the default and top doesn't work in that 
+
+}  */
+
+/* div.relative{
+    position:relative;
+    left: 300px;
+    top:50px;
+    border:red 3px solid;
+  
+} */
+
+/* div.fixed{
+    position:fixed;
+    left: 300px;
+    top:50px;
+    border:red 3px solid;
+} */
+
+/* div.relative{
+    position:relative;
+    left:300px;
+    width:500px;
+    height:300px;
+    border: blue 3px solid;
+}
+div.absolute{
+    position:absolute;
+    bottom:50px;
+    right: 0px;
+    width:300px;
+    height:150px;
+    border: black 3px solid;
+} */
+
+/* div.sticky{
+    position:sticky;
+    top:0px;
+    padding: 5px;
+    background-color:whitesmoke;
+    border:chartreuse 3px solid;
+} */
